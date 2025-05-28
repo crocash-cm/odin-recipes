@@ -1,0 +1,30 @@
+* {
+    background-color:aliceblue;
+}
+
+h1, h3 {
+    font-family: Georgia, serif;
+    color:chocolate;
+    background-color: antiquewhite;
+    margin: 12px;
+    padding: 8px;
+}
+
+img {
+    margin: 12px;
+}
+
+p, ul, ol {
+    font-family: Tahoma, sans-serif;
+    margin: 12px;
+    margin-bottom: 24px;
+}
+
+p {
+    padding-left: 8px;
+}
+
+li {
+    margin: 8px;
+}
+
